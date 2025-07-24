@@ -1,3 +1,4 @@
 # FaceRecognitionProject
-This is a face recognition project using GoogLeNet CNN
+This is a face recognition project using GoogLeNet CNN.
+<br>
 Author-Chandrajeet Singh
